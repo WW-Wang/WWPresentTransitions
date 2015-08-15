@@ -17,7 +17,7 @@ WWPresentTransitions is available through [CocoaPods](http://cocoapods.org). To 
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "WWPresentTransitions"
+pod 'WWPresentTransitions', '~> 0.2.0'
 ```
 
 
