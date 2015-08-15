@@ -1,12 +1,3 @@
-#
-# Be sure to run `pod lib lint WWPresentTransitions.podspec' to ensure this is a
-# valid spec and remove all comments before submitting the spec.
-#
-# Any lines starting with a # are optional, but encouraged
-#
-# To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
-#
-
 Pod::Spec.new do |s|
   s.name             = "WWPresentTransitions"
   s.version          = "0.2.0"
