@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "WWPresentTransitions"
-  s.version          = "0.2.0"
+  s.version          = "0.3.0"
   s.summary          = "A Custom Present Transition Animation On iOS."
   s.description      = <<-DESC
                        It is a Transition Animation When Present a ViewController, which implement by Objective-C.
